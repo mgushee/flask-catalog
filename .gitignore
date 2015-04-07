@@ -58,3 +58,6 @@ target/
 
 # DB files
 *.db
+
+# Vim swap files
+*.sw?
